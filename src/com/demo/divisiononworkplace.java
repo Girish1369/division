@@ -7,6 +7,10 @@ public class divisiononworkplace {
 		int a=50;
 		int b=10;
 		System.out.println("division="+(a/b));
+		// division by pull operation
+		 a =60;
+		 b =10;
+		System.out.println("division="+(a/b));
 
 	}
 
